@@ -1,4 +1,5 @@
-<h1 align="center">🍳 snapncook</h1>
+<h1 align="center">🍳 SnapNCook</h1>
+<p align="center"><i>Snap What You Have, Cook What You Can.</i><p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python" />
@@ -8,7 +9,7 @@
   <img src="https://img.shields.io/badge/Gemini-Enabled-yellow?logo=google" />
 </p>
 
-snapncook is an AI-powered web application that helps you cook smarter and reduce food waste. Just snap a photo of your fridge or kitchen items — our custom-trained YOLOv11 model detects ingredients, and we suggest recipes based on what’s available. Optionally, Gemini API integration helps enhance recipe suggestions or interactions.
+SnapNcook is an AI-powered web application that helps you cook smarter and reduce food waste. Just snap a photo of your fridge or kitchen items and our custom-trained YOLOv11 model detects ingredients, and we suggest recipes based on what’s available. Optionally, Gemini API integration helps enhance recipe suggestions.
 
 
 ##  Features
